@@ -1,8 +1,34 @@
+Welcome to my personal README file!
+
+Hi, my name is ASRIN TOPAL. I am currently studying Computer Engineering at Bahçeşehir University and Visual Communication Design on Anadolu University but my main field is Computer Engineering. Computer engineering is a field that combines elements of electrical engineering and computer science to design and develop computer systems. This can include hardware, software, and networking systems.
+
+Some specific areas of computer engineering include:
+
+Computer architecture and design
+Embedded systems
+VLSI (very-large-scale integration) design
+Computer networks and communication systems
+Software engineering
+As a computer engineer, I have experience in several programming languages such as C++, Python, and Java. I am also familiar with hardware design and implementation, including microcontroller programming and circuit design.
+
+I am particularly interested in the development of embedded systems, which are computer systems integrated into other devices or products. These systems are found in a wide range of applications, from consumer electronics to industrial control systems.
+
+I am also well-versed in software engineering, including the use of software development methodologies such as Agile and Scrum.
+
+Overall, I am passionate about using my skills in computer engineering to create innovative and reliable systems that solve real-world problems.
+
+If you have any questions or would like to work together, please don't hesitate to reach out.
+
+You can check out my repositories on Github.
+I also worked other projects. Here they are;
+  E-commerce site : https://www.lolaline.com
+
+Regenerate response
 - 👋 Hi, I’m @AsrinTopal
 - 👀 I’m interested in Computer Engineering 
-- 🌱 I’m currently learning Java, Python, Flowgorithm and so on
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Java, Python, C++ and so on
 - 📫 How to reach me asrintopal15@gmail.com
+
 
 <!---
 AsrinTopal/AsrinTopal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
