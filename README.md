@@ -1,21 +1,23 @@
-### Welcome to my personal README file!
 
-### Hi, my name is ASRIN TOPAL. I am currently studying Computer Engineering at Bahçeşehir University and Visual Communication Design on Anadolu University but my main field is Computer Engineering. Computer engineering is a field that combines elements of electrical engineering and computer science to design and develop computer systems. This can include hardware, software, and networking systems.
+![Logo](https://www.facebook.com/photo/?fbid=399827988985123&set=a.399827942318461)
 
-### Some specific areas of computer engineering include:
+# Welcome to my personal README file!
+## 🚀 About Me
+### Hi, my name is ASRIN TOPAL. 
+### I am currently studying Computer Engineering at Bahçeşehir University and Visual Communication Design on Anadolu University but my main field is Computer Engineering. Computer engineering is a field that combines elements of electrical engineering and computer science to design and develop computer systems. This can include hardware, software, and networking systems.
+
+### 🖥️ Some specific areas of computer engineering include:
 
 Computer architecture and design
 Embedded systems
 VLSI (very-large-scale integration) design
 Computer networks and communication systems
 Software engineering
-As a computer engineer, I have experience in several programming languages such as C++, Python, and Java. I am also familiar with hardware design and implementation, including microcontroller programming and circuit design.
 
-I am particularly interested in the development of embedded systems, which are computer systems integrated into other devices or products. These systems are found in a wide range of applications, from consumer electronics to industrial control systems.
-
-I am also well-versed in software engineering, including the use of software development methodologies such as Agile and Scrum.
-
-Overall, I am passionate about using my skills in computer engineering to create innovative and reliable systems that solve real-world problems.
+### As a computer engineer, I have experience in several programming languages such as C++, Python, and Java. I am also familiar with hardware design and implementation, including microcontroller programming and circuit design.
+  -I am particularly interested in the development of embedded systems, which are computer systems integrated into other devices or products. These systems are found in a wide range of applications, from consumer electronics to industrial control systems.
+  -I am also well-versed in software engineering, including the use of software development methodologies such as Agile and Scrum.
+  -Overall, I am passionate about using my skills in computer engineering to create innovative and reliable systems that solve real-world problems.
 
 If you have any questions or would like to work together, please don't hesitate to reach out.
 
