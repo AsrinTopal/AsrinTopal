@@ -1,5 +1,5 @@
 
-![Logo](https://www.facebook.com/photo/?fbid=399827988985123&set=a.399827942318461)
+![Logo](https://www.hizliresim.com/qk9245i)
 
 # Welcome to my personal README file!
 ## 🚀 About Me
