@@ -1,5 +1,5 @@
 
-![App Screenshot](https://www.hizliresim.com/qk9245i)
+![](https://github.com/AsrinTopal/ATBANNER.jpg)
 
 # Welcome to my personal README file!
 ## 🚀 About Me
