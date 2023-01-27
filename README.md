@@ -1,5 +1,5 @@
 
-![Logo](https://www.hizliresim.com/qk9245i)
+![App Screenshot](https://www.hizliresim.com/qk9245i)
 
 # Welcome to my personal README file!
 ## 🚀 About Me
