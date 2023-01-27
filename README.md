@@ -8,17 +8,17 @@
 
 ### 🖥️ Some specific areas of computer engineering include:
 
-- 🖥️Computer architecture and design
-- 🖥️- 🖥️Embedded systems
-- 🖥️- 🖥️- 🖥️ VLSI (very-large-scale integration) design
-- 🖥️- 🖥️- 🖥️- 🖥️ Computer networks and communication systems
-- 🖥️- 🖥️- 🖥️- 🖥️- 🖥️ Software engineering
+- 🖥️ Computer architecture and design
+- 🖥️ - 🖥️ Embedded systems
+- 🖥️ - 🖥️ - 🖥️ VLSI (very-large-scale integration) design
+- 🖥️ - 🖥️ - 🖥️ - 🖥️ Computer networks and communication systems
+- 🖥️ - 🖥️ - 🖥️ - 🖥️ - 🖥️ Software engineering
 
 ## As a computer engineer, I have experience in several programming languages such as C++, Python, and Java. I am also familiar with hardware design and implementation, including microcontroller programming and circuit design.
 
-###  * I am particularly interested in the development of embedded systems, which are computer systems integrated into other devices or products. These systems are found in a wide range of applications, from consumer electronics to industrial control systems.
-###  * I am also well-versed in software engineering, including the use of software development methodologies such as Agile and Scrum.
-###  * I have experinced about Game Developement, Website Designing and Coding, Simple Coding Projects and so on.
+#### * I am particularly interested in the development of embedded systems, which are computer systems integrated into other devices or products. These systems are found in a wide range of applications, from consumer electronics to industrial control systems.
+####  * I am also well-versed in software engineering, including the use of software development methodologies such as Agile and Scrum.
+####  * I have experinced about Game Developement, Website Designing and Coding, Simple Coding Projects and so on.
 
 ## Overall, I am passionate about using my skills in computer engineering to create innovative and reliable systems that solve real-world problems.
 
