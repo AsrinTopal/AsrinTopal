@@ -19,6 +19,8 @@ Overall, I am passionate about using my skills in computer engineering to create
 
 If you have any questions or would like to work together, please don't hesitate to reach out.
 
+I have experinced about Game Developement, Website Designing and Coding, Simple Coding Projects and so on.
+
 You can check out my repositories on Github.
 I also worked other projects. Here they are;
   E-commerce site : https://www.lolaline.com
