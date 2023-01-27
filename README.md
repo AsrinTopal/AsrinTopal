@@ -22,8 +22,6 @@
 
 ## Overall, I am passionate about using my skills in computer engineering to create innovative and reliable systems that solve real-world problems.
 
-If you have any questions or would like to work together, please don't hesitate to reach out.
-
 ### You can check out my repositories on Github.
 ### I also worked other projects. Here they are;
   * E-commerce site : https://www.lolaline.com
