@@ -1,5 +1,5 @@
 
-![](https://github.com/AsrinTopal/ATBANNER.jpg)
+![](https://github.com/AsrinTopal/AsrinTopal/blob/main/ATBANNER.jpg)
 
 # Welcome to my personal README file!
 ## 🚀 About Me
