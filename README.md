@@ -24,7 +24,9 @@
 
 ### You can check out my repositories on Github.
 ### I also worked other projects. Here they are;
+  * Encryption and Decryption Tool Using PYTHON : https://github.com/AsrinTopal/Encryption_Tool
   * E-commerce site : https://www.lolaline.com
+  * E-commerce and Personal site : https://www.ardatopalart.com
 
 ## 📫 How to reach me 
 ### If you have any questions or would like to work together, please don't hesitate to reach out.
