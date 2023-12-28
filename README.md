@@ -14,10 +14,10 @@
 - 🖥️ - 🖥️ - 🖥️ - 🖥️ Computer networks and communication systems
 - 🖥️ - 🖥️ - 🖥️ - 🖥️ - 🖥️ Software engineering
 
-## As a computer engineer, I have experience in several programming languages such as C++, Python, and Java. I am also familiar with hardware design and implementation, including microcontroller programming and circuit design.
+## As a computer engineer, I have experience in several programming languages such as C, C++, C#, Python, Java, HTML, CSS, Verilog. I am also familiar with hardware design and implementation, including microcontroller programming and circuit design.
 
 #### * I am particularly interested in the development of embedded systems, which are computer systems integrated into other devices or products. These systems are found in a wide range of applications, from consumer electronics to industrial control systems.
-####  * I am also well-versed in software engineering, including the use of software development methodologies such as Agile and Scrum.
+####  * I am also well-versed in software engineering, including the use of software development methodologies.
 ####  * I have experinced about Game Developement, Website Designing and Coding, Simple Coding Projects and so on.
 
 ## Overall, I am passionate about using my skills in computer engineering to create innovative and reliable systems that solve real-world problems.
@@ -31,6 +31,7 @@
 
 - 🔗 Mail Address : asrintopal15@gmail.com
 - 🔗 Linkedin Address : https://www.linkedin.com/in/asrin-topal-494aa4212/
+- 🔗 LeetCode Address : https://leetcode.com/AsrinTopal/
 - 🔗 Twitter Address : https://twitter.com/Asrin_Topal
 - 🔗 Instagram Address : https://www.instagram.com/asrintopal/
 
