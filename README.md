@@ -25,6 +25,7 @@
 ### You can check out my repositories on Github.
 ### I also worked other projects. Here they are;
   * Encryption and Decryption Tool Using PYTHON : https://github.com/AsrinTopal/Encryption_Tool
+  * Text_To_Speech Tool Using PYTHON : https://github.com/AsrinTopal/Text_To_Speech
   * E-commerce site : https://www.lolaline.com
   * E-commerce and Personal site : https://www.ardatopalart.com
 
