@@ -1,43 +1,68 @@
 
 ![](https://github.com/AsrinTopal/AsrinTopal/blob/main/ATBANNER.jpg)
 
-## Hi, my name is ASRIN TOPAL. 
-## Computer Engineer
-## Data Analyst Professional
-### I am currently studying Computer Engineering at Bahçeşehir University and Visual Communication Design at Anadolu University but my main field is Computer Engineering. As a passionate and detail-oriented Computer Engineer, I specialize in data analytics and artificial intelligence. With a solid foundation in programming and data science, I am dedicated to leveraging technology to solve complex problems and drive data-driven decision-making.
+# Hi, I'm Asrın Topal 👋
 
-### I hold a Google Data Analytics Professional Certificate and have hands-on experience with tools such as R, SQL, and Tableau. My expertise extends to data visualization, data cleaning, and machine learning, allowing me to transform raw data into actionable insights.
+### Computer Engineering Graduate | Software Developer
 
-### I am committed to continuous learning and professional development, having completed various certifications in AI and data analytics. My strong analytical skills, combined with my ability to communicate complex concepts clearly, enable me to collaborate effectively with cross-functional teams.
+I'm a Computer Engineering and Visual Communication Design graduate interested in building practical software solutions, web applications, and business-oriented systems.
 
-### I am eager to contribute to innovative projects that harness the power of data and AI to create meaningful solutions. Let's connect and explore opportunities to work together!
+I enjoy working on projects that combine software development, problem-solving, and technology to address real-world needs. My interests include web development, application development, artificial intelligence, and data-driven solutions.
 
-### As a Computer Engineer, I have experience in many programming languages such as C++, Python, and Java. I am also familiar with hardware design and implementation, including microcontroller programming and circuit design.
+Currently, I'm focused on improving my software engineering skills and developing projects that are both functional and meaningful.
 
-### As a computer engineer, I have experience in several programming languages such as C, C++, C#, Python, Java, HTML, CSS, Verilog. I am also familiar with hardware design and implementation, including microcontroller programming and circuit design.
+---
 
-#### * I am particularly interested in the development of embedded systems, which are computer systems integrated into other devices or products. These systems are found in a wide range of applications, from consumer electronics to industrial control systems.
-####  * I am also well-versed in software engineering, including the use of software development methodologies.
-####  * I have experinced about Game Developement, Website Designing and Coding, Simple Coding Projects and so on.
+### 🛠️ Technologies & Tools
 
-## Overall, I am passionate about using my skills in computer engineering to create innovative and reliable systems that solve real-world problems.
+**Programming Languages**
+- C / C++
+- C#
+- Python
+- Java
+- SQL
 
-### You can check out my repositories on Github.
-### I also worked other projects. Here they are;
-  * Digit Predictor Using PYTHON : https://github.com/AsrinTopal/Digit-Predictor
-  * Encoding and Decoding Tool Using PYTHON : https://github.com/AsrinTopal/Encoding_Tool
-  * Text_To_Speech Tool Using PYTHON : https://github.com/AsrinTopal/Text_To_Speech
-  * E-commerce site : https://www.lolaline.com
+**Web Development**
+- HTML
+- CSS
+- Web Application Development
 
-## 📫 How to reach me 
-### If you have any questions or would like to work together, please don't hesitate to reach out.
+**Other Interests**
+- Artificial Intelligence & Machine Learning
+- Data Analytics
+- Software Engineering
+- Embedded Systems
 
-- 🔗 Mail Address : asrintopal15@gmail.com
-- 🔗 Linkedin Address : https://www.linkedin.com/in/asrin-topal-494aa4212/
-- 🔗 LeetCode Address : https://leetcode.com/AsrinTopal/
-- 🔗 Twitter Address : https://twitter.com/Asrin_Topal
-- 🔗 Instagram Address : https://www.instagram.com/asrintopal/
+---
 
+### 🚀 Selected Projects
+
+Here are some of my projects:
+
+- [Digit Predictor](https://github.com/AsrinTopal/Digit-Predictor) – A Python-based digit prediction project.
+- [Encoding & Decoding Tool](https://github.com/AsrinTopal/Encoding_Tool) – A tool for encoding and decoding text.
+- [Text to Speech](https://github.com/AsrinTopal/Text_To_Speech) – A Python-based text-to-speech application.
+
+---
+
+### 📌 What I'm Working Towards
+
+- Developing web applications and business software.
+- Building practical tools and automation solutions.
+- Exploring AI and machine learning applications.
+- Improving my software architecture and development skills.
+
+---
+
+### 📫 Let's Connect
+
+- **Email:** [asrintopal15@gmail.com](mailto:asrintopal15@gmail.com)
+- **LinkedIn:** [Asrın Topal](https://www.linkedin.com/in/asrin-topal-494aa4212/)
+- **LeetCode:** [AsrinTopal](https://leetcode.com/AsrinTopal/)
+
+---
+
+*Always learning, building, and improving.*
 
 <!---
 AsrinTopal/AsrinTopal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
